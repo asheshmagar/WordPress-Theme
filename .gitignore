@@ -1,0 +1,19 @@
+# Editors
+project.xml
+project.properties
+/nbproject/private/
+.buildpath
+.project
+.settings*
+.idea
+composer.phar
+
+# Sass
+.sass-cache
+
+# Dependencies
+/node_modules/
+/deploy/
+/vendor/
+/dist/
+
